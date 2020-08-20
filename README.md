@@ -3,7 +3,6 @@
 
 💻 belong to organization  SCH-Likelion 8th Organizer 🦁  
 
-                        ...
 
 😸 Programming I Have Learned **C, C++, JAVA, Django, HTML/CSS, Python** ...  
 
