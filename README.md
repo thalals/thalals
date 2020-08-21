@@ -1,7 +1,7 @@
 
 🌼🌻 Hello! This is thalals, GitHub Page  
 
-💻 belong to organization  SCH-Likelion 8th Organizer 🦁  
+💻 I am a student developer
 
 .
 
