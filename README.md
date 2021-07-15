@@ -7,8 +7,6 @@
 
 😸 Programming I Have Learned **C, C++, JAVA, Django, HTML/CSS, Python** ...  
 
- I will commit every day. we can do this🎗
-
   
   
 <div align=center>
