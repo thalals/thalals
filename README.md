@@ -68,7 +68,8 @@ Here are some ideas to get you started:
   
 ## 🤝🏻 &nbsp;Connect with Me 
 <p align="center">
-<a href="mailto:thalsal@naver.com/"><img src="https://img.shields.io/badge/-Mail-Green?style=flat&logo=Naver&logoColor=white"/></a>
+<a href="mailto:thalsal@naver.com"><img src="https://img.shields.io/badge/-Mail-Green?style=flat&logo=Naver&logoColor=white"/></a>
+<a href="mailto:thalals97@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://thalals.tistory.com/"><img src="https://img.shields.io/badge/-My Tech Blog-orange?style=flat&logo=Storyblok&logoColor=white"/></a>
 <a href="https://www.instagram.com/hmin0_0/"><img src="https://img.shields.io/badge/-Instagram_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
