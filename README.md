@@ -63,8 +63,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/thalals">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thalals&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>&nbsp;
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thalals&layout=compact&langs_count=8&theme=buefy"/>
-  <img src="https://github.com/thalals/thalals/blob/main/metrics.plugin.isocalendar.svg">
-  <img width="900" height="1" alt="">
+  
 </a>
 </p>
   
