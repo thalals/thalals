@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> 안녕하세요, 개발자 박형민입니다.
+## <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30"> 안녕하세요, 개발자 박형민입니다.
 
 <!--
 **thalals/thalals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
