@@ -17,14 +17,27 @@ Here are some ideas to get you started:
 
 🌼🌻 Hello! This is My GitHub Page  
 
-💻 I am a student developer
+***TDD***와 ***OOP***에 관심을 가지고 공부중이며, 기술 블로그를 운영하고 있습니다:) <br>
+<br>
+<br>
+
+***Visit My Blog***
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=힘차게,열심히🔥&theme={insert_theme})](https://thalals.tistory.com)
+
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=thalals&postId={insert_postId}&theme=tistory)](https://github.com/loosie/github-readme-tistory-card)
 
 
 <br>
-🦁 SCH LikeLion 8th <br>
-🥇 2021년 순천향대학교 캡스톤 디자인 학술 경진대회 1위(대상) <br>
-🔥 스파르타코딩클럽 내배캠 1기 <br>
+
+#### | 이력 |
+
 🐾 (주)지앤원 BE 22.05 ~ ing <br>
+🔥 TeamSparta 내일배움캠프 1기 <br>
+🥇 2021년 순천향대학교 캡스톤 디자인 학술 경진대회 1위(대상) <br>
+🦁 SCH LikeLion 8th <br>
+
+<br>
 
  ## 🛠 &nbsp;Tech Stack
 
