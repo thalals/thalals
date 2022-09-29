@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 
 <br>
-  
+🦁 SCH LikeLion 8th
+🥇 2021년 순천향대학교 캡스톤 디자인 학술 경진대회 1위(대상)
+🔥 스파르타코딩클럽 내배캠 1기
+🐾 (주)지앤원 BE 22.05 ~ ing
+
  ## 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
