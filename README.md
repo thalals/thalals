@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 
 <br>
-🦁 SCH LikeLion 8th
-🥇 2021년 순천향대학교 캡스톤 디자인 학술 경진대회 1위(대상)
-🔥 스파르타코딩클럽 내배캠 1기
-🐾 (주)지앤원 BE 22.05 ~ ing
+🦁 SCH LikeLion 8th <br>
+🥇 2021년 순천향대학교 캡스톤 디자인 학술 경진대회 1위(대상) <br>
+🔥 스파르타코딩클럽 내배캠 1기 <br>
+🐾 (주)지앤원 BE 22.05 ~ ing <br>
 
  ## 🛠 &nbsp;Tech Stack
 
