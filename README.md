@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 🐾 (주)지앤원 BE 22.05 ~ ing <br>
 🔥 TeamSparta 내일배움캠프 1기 <br>
-🥇 2021년 순천향대학교 캡스톤 디자인 학술 경진대회 1위(대상) <br>
+🥇 2021년 순천향대학교 캡스톤 디자인 학술 경진대회 대상 <br>
 🦁 SCH LikeLion 8th <br>
 
 <br>
