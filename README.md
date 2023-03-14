@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 #### | 이력 |
 
 🐾 반려동물 맞춤 솔루션 플랫폼 서비스 - (주)지앤원 BE 22.05 ~ ing <br>
-🔥 TeamSparta 내일배움캠프 1기 <br>
+🔥 TeamSparta 내일배움캠프 Cloud 1기  <br>
 🥇 2021년 순천향대학교 캡스톤 디자인 학술 경진대회 대상 <br>
 🦁 SCH LikeLion 8th - 롯데 해커톤 은상<br>
 
