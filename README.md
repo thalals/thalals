@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 </a>
 </p>
   
-## 🤝🏻 &nbsp;Connect with Me 
+## 🤝🏻 &nbsp;Connect With My Mail
 <p align="center">
 <a href="mailto:thalsal@naver.com"><img src="https://img.shields.io/badge/-Mail-Green?style=flat&logo=Naver&logoColor=white"/></a>
 <a href="mailto:thalals97@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
