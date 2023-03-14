@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌼🌻 Hello! This is My GitHub Page  
+🌼🌻 Hello! This is My GitHub Page  <br><br>
+현재는 TDD 와 OOP, Design Pattern 에 관심을 가지고 있습니다. <br>
+학습한 내용을 기록한 기술 블로그를 운영하고 있습니다:) <br>
 
-***TDD***와 ***OOP***에 관심을 가지고 공부중이며, 기술 블로그를 운영하고 있습니다:) <br>
 <br>
 
 ***Visit My Blog***
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
 🐾 반려동물 맞춤 솔루션 플랫폼 서비스 - (주)지앤원 BE 22.05 ~ ing <br>
 🔥 TeamSparta 내일배움캠프 1기 <br>
 🥇 2021년 순천향대학교 캡스톤 디자인 학술 경진대회 대상 <br>
-🦁 SCH LikeLion 8th <br>
+🦁 SCH LikeLion 8th - 롯데 해커톤 은상<br>
 
 <!-- <br>
 
