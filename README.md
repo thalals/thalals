@@ -19,24 +19,22 @@ Here are some ideas to get you started:
 
 ***TDD***와 ***OOP***에 관심을 가지고 공부중이며, 기술 블로그를 운영하고 있습니다:) <br>
 <br>
-<br>
 
 ***Visit My Blog***
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=힘차게,열심히🔥&theme={insert_theme})](https://thalals.tistory.com)
 
 
-
 <br>
 
 #### | 이력 |
 
-🐾 (주)지앤원 BE 22.05 ~ ing <br>
+🐾 반려동물 맞춤 솔루션 플랫폼 서비스 - (주)지앤원 BE 22.05 ~ ing <br>
 🔥 TeamSparta 내일배움캠프 1기 <br>
 🥇 2021년 순천향대학교 캡스톤 디자인 학술 경진대회 대상 <br>
 🦁 SCH LikeLion 8th <br>
 
-<br>
+<!-- <br>
 
  ## 🛠 &nbsp;Tech Stack
 
@@ -70,7 +68,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
-<br>
+<br> -->
 
 ## ⚙️ &nbsp;GitHub Analytics
 
