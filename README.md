@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <br>
 
-***Visit My Blog***
+***Visit My Blog(https://thalals.tistory.com)***
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=힘차게,열심히🔥&theme={insert_theme})](https://thalals.tistory.com)
+<!--[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=힘차게,열심히🔥&theme={insert_theme})](https://thalals.tistory.com)-->
 
 
 <br>
