@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ####  안녕하세요, 백엔드 개발자 박형민입니다. <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30">
 
-- 🌱 I'm currently learning Back-end, DevOps and Language
+- 🌱 I'm currently learning Back-end abd DevOps
 - 📝 I regularly write articles on [MY BLOG](https://thalals.tistory.com/)
 - 📫 My Email is here! 👉  thalsal@naver.com
 
