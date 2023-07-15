@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently learning Back-end abd DevOps
 - 📝 I regularly write articles on [MY BLOG](https://thalals.tistory.com/)
-- 📫 My Email is here! 👉  thalsal@naver.com
+- 📫 My Email is here! 👉  thalals97@gmail.com
 
 
 ## EXPERIENCE
