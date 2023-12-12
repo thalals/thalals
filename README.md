@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - **G&ONE Pood** - Backend Developer *(May 2022 ~ PRESENT)*<br>
 
 ## ETC
+- **글또 9th** - 글 쓰는 개발자 모임, 글또 *(Dec 2023 ~ ing)*<br>
 - **NEXT STEP**  - ATDD, 클린 코드 with Spring 7기 *(Jun 2023 ~ Aug 2023)*<br>
 - **TEAM SPARTA**  - 내일배움캠프 Cloud 1th *(Sep 2022 ~ Feb 2023)*<br>
 - **SCH LikeLion 8th** - Server 8th *(Jul 2021 ~ Jan 2022)*<br>
