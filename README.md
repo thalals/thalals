@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 ## EXPERIENCE
-- **G&ONE Pood** - Backend Developer *(May 2022 ~ PRESENT)*<br>
+- **G&ONE Pood** - Backend Developer *(May 2022 ~ DEC 2023)*<br>
 
 ## ETC
 - **글또 9th** - 글 쓰는 개발자 모임, 글또 *(Dec 2023 ~ ing)*<br>
