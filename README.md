@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 
 
 ## EXPERIENCE
-- **GenesisNest** - Backend Developer *(Sep 2024 ~ ing)*<br>
+- **II Combined** - Backend Developer *(Dec 2024 ~ ing)*<br>
+- **GenesisNest** - Backend Developer *(Sep 2024 ~ Nov 2024, 2개월)*<br>
 - **G&ONE Pood** - Backend Developer *(May 2022 ~ DEC 2023, 1년 8개월)*<br>
 
 ## ETC
